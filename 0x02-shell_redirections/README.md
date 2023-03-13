@@ -15,3 +15,4 @@ Project done the ALX full stacj software engineering course. It teaches how to h
 6. A script that displays the third line of the file iacta
 7. A script that creates a file with a text best school ending by a new line
 8. A script that writes into the file ls_cwd_content the result of the command ls -la
+9. A script duplicates the last line of the file iacta
