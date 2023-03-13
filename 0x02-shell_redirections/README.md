@@ -11,3 +11,4 @@ Project done the ALX full stacj software engineering course. It teaches how to h
 2. Display the content of the /etc/passwd file
 3. A script to display content /etc/passwd and /etc/hosts
 4. A script that Display the last 10 lines of /etc/passwd
+5. A script that displays the first 10 lines of /etc/passwd
