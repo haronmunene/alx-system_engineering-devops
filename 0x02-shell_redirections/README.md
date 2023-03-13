@@ -13,3 +13,4 @@ Project done the ALX full stacj software engineering course. It teaches how to h
 4. A script that Display the last 10 lines of /etc/passwd
 5. A script that displays the first 10 lines of /etc/passwd
 6. A script that displays the third line of the file iacta
+7. A script that creates a file with a text best school ending by a new line
