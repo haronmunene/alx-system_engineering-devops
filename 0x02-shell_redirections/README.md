@@ -27,3 +27,4 @@ Project done for the ALX full stack software engineering course. It teaches how 
 18. A script that displays all lines of the file /etc/ssh/sshd_config starting with a letter and includes capital letters
 19. A script that replaces all characters A and c from input to Z and e respectively
 20. A script that removes all letters c and C from input
+21. A script that reverses its input
