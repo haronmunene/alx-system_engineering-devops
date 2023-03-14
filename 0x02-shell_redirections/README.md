@@ -26,3 +26,4 @@ Project done for the ALX full stack software engineering course. It teaches how 
 17. A script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin” 
 18. A script that displays all lines of the file /etc/ssh/sshd_config starting with a letter and includes capital letters
 19. A script that replaces all characters A and c from input to Z and e respectively
+20. A script that removes all letters c and C from input
