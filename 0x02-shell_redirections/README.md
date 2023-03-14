@@ -25,3 +25,4 @@ Project done for the ALX full stack software engineering course. It teaches how 
 16. A script that display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
 17. A script that displays all the lines in the file /etc/passwd that do not contain the pattern “bin” 
 18. A script that displays all lines of the file /etc/ssh/sshd_config starting with a letter and includes capital letters
+19. A script that replaces all characters A and c from input to Z and e respectively
