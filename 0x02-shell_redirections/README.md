@@ -28,3 +28,4 @@ Project done for the ALX full stack software engineering course. It teaches how 
 19. A script that replaces all characters A and c from input to Z and e respectively
 20. A script that removes all letters c and C from input
 21. A script that reverses its input
+22. A script that displays all users and their home directories, sorted by users
